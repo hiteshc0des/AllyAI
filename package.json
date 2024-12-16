@@ -1,7 +1,7 @@
 {
   "name": "node_gemini",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server_interactive_chat.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node server_interactive_chat.js",
